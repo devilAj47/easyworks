@@ -1,2 +1,1 @@
-# easyworks
-# easyworks
+The project focuses on acting as an intermediary between laborers (mason, painter, carpenter, etc) and the common person that is citizen. Suppose you need to get  repaired your tap then you can post the requirement on the website and the specific worker will see the request and approach you. You can sign up, login, post work, delete work, rate the worker on the basis of the work done.
